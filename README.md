@@ -7,6 +7,11 @@ A GPT-style language model built completely from scratch in **PyTorch** for educ
 This project implements the complete GPT pipeline, including tokenizer training, Transformer architecture, language model training, and text generation without relying on pre-built GPT implementations.
 
 ---
+
+**Right now this repo doesnot contain any training and dataset files it will be available soon with the proper notebook for educational purpose so, everyone can know the archticture and logics behind the modern AI.**
+
+---
+
 ## 📋 Table of Contents
 
 - [About](#about)
