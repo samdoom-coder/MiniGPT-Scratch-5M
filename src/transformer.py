@@ -1,5 +1,3 @@
-%%writefile MiniGPT/src/transformer.py
-
 import torch.nn as nn
 
 from src.attention import MultiHeadAttention

@@ -1,5 +1,3 @@
-%%writefile MiniGPT/src/mlp.py
-
 import torch.nn as nn
 
 from src.config import MiniGPTConfig
